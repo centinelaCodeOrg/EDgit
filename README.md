@@ -16,3 +16,14 @@ Se recomienda crear una organiación que sea la propietaria del repositorio prin
 ### Creación del Fork
 
 Para crear un fork debes iniciar sesión en tu cuenta de GitHub y luego ingresar a la landing page del proyecto del que quieras sacar un fork.
+
+## Como trabajar con 2 o más remotos
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos
+`git remote add EDgit git@github.com:centinelaCodeOrg/EDgit.git`
+
+Eliminar remotos
+`git remote remove EDgit`
